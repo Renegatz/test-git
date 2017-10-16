@@ -15,6 +15,7 @@ class ViewController: UIViewController {
           print("je suis la ligne 15")
         // Do any additional setup after loading the view, typically from a nib.
         afficher("yé",fois:5)
+        print("github!")
       
         
     }
